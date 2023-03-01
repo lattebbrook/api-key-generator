@@ -4,7 +4,6 @@
 
 <p align="center">
   <b>API Key Generator (Microservice)</b><br>
-  <i>By Tanawat Boonmak</i>
 </p>
 <h1>Introduction</h1>
 <p>
