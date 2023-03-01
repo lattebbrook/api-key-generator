@@ -23,7 +23,7 @@
 <h2> Features </h2>
 <h3>For the purpose of Spring Boot skill demonstration, this project contain features: </h3>
 
-- [x] <b>Generating randomize value of api key, including alphabet, number, lower case, uppercase, special character :tada:</b>
+- [x] <b>Generating randomize value of api key, including alphabet, number, lower case, uppercase, special character</b>
 - [ ] Storing value and retrieving value through JDBC which control by Spring Boot Framework.
 - [ ] Key setting can be changed at anytime via Setting.yml
 - [ ] Deploying it on cloud. 
