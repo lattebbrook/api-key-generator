@@ -1,0 +1,26 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>app.mycmd.lattebbrook</groupId>
+    <artifactId>API-Key-Generator</artifactId>
+    <version>0.25</version>
+    <name>API Key Generator</name>
+    <description>API Key Generator is a microservice that can generate api key in which they will be stored on database and can access from other 
+  microservices in their authentication part.</description>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-webflux</artifactId>
+            <version>3.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.32</version>
+        </dependency>
+    </dependencies>
+    <properties>
+        <java.version>19</java.version>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+    </properties>
+</project>
